@@ -2,8 +2,8 @@
 
 Unit Testing Assignment 
 Assignment Team : 
-Goh Kai Yuan
-Ansley Tou
+Goh Kai Yuan,
+Ansley Tou,
 Rebecca Nga
 
 ## Setting up and running the project via the terminal
