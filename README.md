@@ -1,10 +1,16 @@
 # FIT2107_S2_2021
 
-Unit Testing Assignment 
-Assignment Team : 
+FIT2107 Unit Testing Assignment 
+
+Assignment Team: 
+
 Goh Kai Yuan,
+
 Ansley Tou,
+
 Rebecca Nga
+
+
 
 ## Setting up and running the project via the terminal
 
